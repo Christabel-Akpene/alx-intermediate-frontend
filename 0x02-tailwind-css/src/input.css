@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer utilities{
+    @media (max-width: 768px) {
+        main{
+            @apply grid-cols-1;
+        }
+        
+    }
+}
