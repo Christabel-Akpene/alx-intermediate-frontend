@@ -1,0 +1,5 @@
+# Steps to Install Sass
+- Move into the directory you want to install sass in.
+- Type npm install -g sass in the terminal.
+- Type sass --version to see the version of sass installed.
+
